@@ -1,8 +1,6 @@
-Zhengnan Zhu
-20782130 z263zhu
-Windows 10
+Tested under Windows 10
 
-Hotkeys: (I choose to impletement the second feature)
+Hotkeys:
 P <- pause, which also means that we switch to the manual mode
 N <- advance one frame at a time
 R <- resume to the automatic mode
